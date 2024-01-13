@@ -30,13 +30,12 @@ body {
 .navitems a {
     color: white;
     text-decoration: none;
-    padding: 2px 30px;
+    height: 100%;
 }
 
 .navitems a:hover {
     background-color: #ddd;
     color: black;
-    padding: 0.38rem 30px;
 }
 
 .selected {
